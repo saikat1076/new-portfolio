@@ -1,0 +1,79 @@
+.orange{
+    color: #FD6E0A;
+}
+.top{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 50px;
+  font-weight: 45px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    margin: 25px 150px;
+}
+.banner{
+    display: flex;
+}
+.banner-pic{
+    width: 600px;
+    padding: 20px  auto;
+    margin: 10px 5px;
+}
+.banner-title{
+    padding: 0 auto;
+    margin: 5px 300px;
+}
+.header{
+    background-image: url(images/developer.png), url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    /* width: 700px; */
+}
+.second-bg{
+    background-color:#FFF8F3;
+}
+.hi{
+    font-size: 30px;
+    padding: 5px 21px;
+    margin: 0 auto;
+}
+.game{
+    font-size: 18px;
+    padding: 15px 17px;
+    margin: 0 auto;
+}
+.name{
+    font-size: 60px;
+    padding: 5px 21px;
+    margin: 0 auto;
+}
+.button{
+    color: white;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 18px 30px;
+    margin: 28px 5px;
+}
+.Dark02{
+color: Dark 02;
+font-size: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 9px;
+}
+nav li a{
+    text-decoration: none;
+}
